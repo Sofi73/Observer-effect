@@ -1,0 +1,27 @@
+img {
+width: 120px;
+float: left;
+margin: 10px;
+}
+
+.content h1 {
+font-size: 18px;
+font-family: Arial;
+font-weight: 600;
+}
+
+.content p {
+font-size: 14px;
+font-family: Arial;
+font-weight: 400;
+}
+
+.sec_par {
+margin-bottom: 40px;
+}
+
+
+.signature{
+text-align: right;
+margin: 10px;
+}
